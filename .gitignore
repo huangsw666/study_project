@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/RemoteCtrl/.vs
+/RemoteCtrl/RemoteCtrl/RemoteCtrl.vcxproj.user
+/RemoteCtrl/RemoteClient/RemoteClient.vcxproj.user
